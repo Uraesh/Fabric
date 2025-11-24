@@ -1,0 +1,27 @@
+# Environnement et IDE
+.vscode/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+
+# Environnements virtuels
+env/
+venv/
+.env
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Données et sorties générées
+metadata.csv
+metadata_cleaned.csv
+metadata_cleanned.csv
+wordcloud_titles.png
+
+# Systèmes
+.DS_Store
+/*.sqlite
+/*.db
